@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480534979 source:c:\users\brian\documents\bewijzenmap\school-mediacolage\jear-2\periode2\rend\c\bmicalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480534979 source:c:\users\brian\documents\bewijzenmap\school-mediacolage\jear-2\periode2\rend\c\first_time_c\bmicalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
